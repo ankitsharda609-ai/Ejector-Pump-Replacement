@@ -1,0 +1,8 @@
+
+{
+  "name": "Towson Pump Pros - Ejector Pump Experts",
+  "description": "Professional ejector pump replacement and repair services in Towson, Maryland. Features an AI-powered diagnostic assistant for basement plumbing issues.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
